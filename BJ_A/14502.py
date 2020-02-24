@@ -27,5 +27,5 @@ for y in range(N):
                 y_idx = y + dy[d]
                 x_idx = x + dx[d]
                 if isnotwall(y_idx, x_idx):
-                    
+
 
